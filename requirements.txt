@@ -1,0 +1,7 @@
+streamlit==1.28.1
+requests==2.31.0
+pandas==2.0.3
+Pillow==10.0.1
+python-dateutil==2.8.2
+difflib==0.1  # 注意：difflib是内置库，无需安装，但保留此写法不会报错
+openpyxl==3.1.2  # 可选，用于Excel导出
